@@ -1,0 +1,6 @@
+**.blend*
+**.mesh
+**.env
+**.bak
+**.kate-swp
+build/
